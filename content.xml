@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505214510HLXZN7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505214510X4HC5R</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>A vueltes cola lliteratura.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Descripción de la SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Álvaro Gregorio Vázquez Macías</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778010297099</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mot1f9gk-qlie3rgf8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>A vueltes cola lliteratura. Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A vueltes cola lliteratura. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A vueltes cola lliteratura. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>A vueltes cola lliteratura. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot1f9gk-qlie3rgf8</odePageId>
+      <odeBlockId>block-1777902534755-svj9hftzg</odeBlockId>
+      <blockName>A vueltes cola lliteratura. Descripción de la SdA</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9gk-qlie3rgf8</odePageId>
+          <odeBlockId>block-1777902534755-svj9hftzg</odeBlockId>
+          <odeIdeviceId>idevice-1777902534752-0vahlwg7y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>4-5 sesiones</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas-tríos</dd></div></dl><p style="text-align: justify;">Esta situación de aprendizaje se orienta al alumnado de <strong>4º de ESO</strong> matriculado en la asignatura de <strong>Lengua Asturiana y Literatura</strong>. Con el fin de desarrollar las destrezas vinculadas a la educación literaria, el alumnado deberá realizar una <strong>infografía </strong>sobre poetas en lengua asturiana y, posteriormente, grabarán <strong>recital en formato podcast</strong> con aquellos poemas que más les llamaron la atención. Para ello, emplearán herramientas como <strong>Canva </strong>o <strong>Vocaroo </strong>para desarrollar los productos. </p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777902534752-0vahlwg7y","textInfoDurationInput":"4-5 sesiones","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas-tríos","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>4-5 sesiones</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas-tríos</dd></div></dl><p style=\"text-align: justify;\">Esta situación de aprendizaje se orienta al alumnado de <strong>4º de ESO</strong> matriculado en la asignatura de <strong>Lengua Asturiana y Literatura</strong>. Con el fin de desarrollar las destrezas vinculadas a la educación literaria, el alumnado deberá realizar una <strong>infografía </strong>sobre poetas en lengua asturiana y, posteriormente, grabarán <strong>recital en formato podcast</strong> con aquellos poemas que más les llamaron la atención. Para ello, emplearán herramientas como <strong>Canva </strong>o <strong>Vocaroo </strong>para desarrollar los productos. </p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot1f9gr-auciv3wbp</odePageId>
+  <odeParentPageId>page-mot1f9gk-qlie3rgf8</odeParentPageId>
+  <pageName>Intención Educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot1f9gr-auciv3wbp</odePageId>
+      <odeBlockId>block-1777902982830-0wsfrvkks</odeBlockId>
+      <blockName>Intención educativa</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9gr-auciv3wbp</odePageId>
+          <odeBlockId>block-1777902982830-0wsfrvkks</odeBlockId>
+          <odeIdeviceId>idevice-1777902982827-k4ukal2y9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con esta SdA se busca que el alumnado desarrolle: </p>
+<ol>
+<li>El hábito lector.</li>
+<li>Las destrezas de expresión oral y comprensión escrita.</li>
+<li>La formación de un gusto personal en función de la selección autónoma de textos literarios en lengua asturiana ajustados a su nivel e intereses. </li>
+<li>Hábitos saludables de uso de las TIC y respetuosos con la propiedad intelectual. </li>
+<li>La capacidad de trabajo autónomo y la investigación.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777902982827-k4ukal2y9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con esta SdA se busca que el alumnado desarrolle: </p>\n<ol>\n<li>El hábito lector.</li>\n<li>Las destrezas de expresión oral y comprensión escrita.</li>\n<li>La formación de un gusto personal en función de la selección autónoma de textos literarios en lengua asturiana ajustados a su nivel e intereses. </li>\n<li>Hábitos saludables de uso de las TIC y respetuosos con la propiedad intelectual. </li>\n<li>La capacidad de trabajo autónomo y la investigación.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mot1f9gr-auciv3wbp</odePageId>
+      <odeBlockId>block-1777926240206-d7puvkrku</odeBlockId>
+      <blockName>Relación con los Objetivos de desarrollo sostenible</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9gr-auciv3wbp</odePageId>
+          <odeBlockId>block-1777926240206-d7puvkrku</odeBlockId>
+          <odeIdeviceId>idevice-1777926240203-vmss91vxr</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777926240203-vmss91vxr" title="" href="{{context_path}}/content/resources/ODS 4.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/ODS 4.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777926240203-vmss91vxr" title="" href="{{context_path}}/content/resources/ODS 5.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/ODS 5.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777926240203-vmss91vxr" title="" href="{{context_path}}/content/resources/ODS 10.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/ODS 10.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777926240203-vmss91vxr","img_0":{"img":"{{context_path}}/content/resources/ODS 4.jpeg","thumbnail":"{{context_path}}/content/resources/ODS 4.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_3":{"img":"{{context_path}}/content/resources/ODS 5.jpeg","thumbnail":"{{context_path}}/content/resources/ODS 5.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_4":{"img":"{{context_path}}/content/resources/ODS 10.jpeg","thumbnail":"{{context_path}}/content/resources/ODS 10.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mot1f9gr-auciv3wbp</odePageId>
+      <odeBlockId>block-1777926526515-smveqqpdr</odeBlockId>
+      <blockName>Relación con los Retos del siglo XXI</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9gr-auciv3wbp</odePageId>
+          <odeBlockId>block-1777926526515-smveqqpdr</odeBlockId>
+          <odeIdeviceId>idevice-1777926526514-d62wmx202</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Promover la igualdad de género. </li>
+<li>Cooperar y convivir en una sociedad diversa. </li>
+<li>Identificar situaciones de inequidad y desarrollar sentimientos de empatía. </li>
+<li>Adquirir confianza en el conocimiento como motor del desarrollo. </li>
+<li>Usar de manera ética y eficaz las tecnologías.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777926526514-d62wmx202","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li>Promover la igualdad de género. </li>\n<li>Cooperar y convivir en una sociedad diversa. </li>\n<li>Identificar situaciones de inequidad y desarrollar sentimientos de empatía. </li>\n<li>Adquirir confianza en el conocimiento como motor del desarrollo. </li>\n<li>Usar de manera ética y eficaz las tecnologías.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot1f9gw-x07rajx32</odePageId>
+  <odeParentPageId>page-mot1f9gk-qlie3rgf8</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot1f9gw-x07rajx32</odePageId>
+      <odeBlockId>block-1777903214182-68ehoww1u</odeBlockId>
+      <blockName>Relación de elementos curriculares que se trabajarán en la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9gw-x07rajx32</odePageId>
+          <odeBlockId>block-1777903214182-68ehoww1u</odeBlockId>
+          <odeIdeviceId>idevice-1777903214177-tccf9kgrd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta Sda se vincula con los siguientes elementos curriculares: </p>
+<table border="1" class="exe-table" style="width: 100.037%; height: 3838.8px; border-color: #34495e; border-style: solid; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr style="height: 56.8px; text-align: justify; border-color: #34495e;">
+<td style="width: 28.641%; height: 56.8px; background-color: #c2e0f4; border-color: #34495e; border-style: solid; text-align: center;">C. E.</td>
+<td style="width: 25.7421%; text-align: center; height: 56.8px; background-color: #c2e0f4; border-color: #34495e; border-style: solid;">Criterios de evaluación</td>
+<td style="width: 45.5705%; text-align: center; height: 56.8px; background-color: #c2e0f4; border-color: #34495e; border-style: solid;">Descriptores operativos</td>
+</tr>
+<tr style="height: 680.8px; text-align: justify; border-color: #34495e;">
+<td style="width: 28.641%; height: 680.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">Competencia específica 3. Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales. </td>
+<td style="width: 25.7421%; height: 680.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">3.1. Realizar exposiciones y argumentaciones orales de cierta extensión y complejidad con diferente grado de planificación sobre temas de interés personal, social, educativo y profesional ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales. </td>
+<td style="width: 45.5705%; height: 680.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;"> CCL1, CCL3, CCL5, CP2, STEM1, CD2, CD3, CC2, CE1. </td>
+</tr>
+<tr style="height: 1208.8px; text-align: justify; border-color: #34495e;">
+<td style="width: 28.641%; height: 1208.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">Competencia específica 6. Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual. </td>
+<td style="width: 25.7421%; height: 1208.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">6.1. Elaborar trabajos de investigación de manera guiada en diferentes soportes sobre diversos temas de interés académico, personal o social que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con los principios de propiedad intelectual. 6.2. Conocer y manejar las fuentes y los recursos analógicos y digitales disponibles en lengua asturiana para elaborar a partir de ellos trabajos de investigación.  </td>
+<td style="width: 45.5705%; height: 1208.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">CCL3, CD1, CD2, CD3, CD4, CPSAA4, CPSAA5, CC4, CE3.  </td>
+</tr>
+<tr style="height: 584.8px; text-align: justify;">
+<td style="width: 28.641%; height: 584.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">Competencia específica 7. Seleccionar y leer de manera autónoma obras diversas como fuente de placer y conocimiento, configurando un itinerario lector que se enriquezca progresivamente en cuanto a diversidad, complejidad y calidad de las obras, y compartir experiencias de lectura para construir la propia identidad lectora y disfrutar de la dimensión social de la lectura.  </td>
+<td style="width: 25.7421%; height: 584.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">7.1. Leer de manera progresivamente autónoma textos seleccionados en función de los propios gustos, intereses y necesidades, y dejar constancia del progreso del propio itinerario lector y cultural explicando los criterios de selección de las lecturas, las formas de acceso a la cultura literaria y la experiencia de lectura. </td>
+<td style="width: 45.5705%; height: 584.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">CCL1, CCL2, CCL4, CPSAA1, CPSAA3, CPSAA5, CCEC1, CCEC2, CCEC3.  </td>
+</tr>
+<tr style="height: 42.8px; text-align: justify;">
+<td colspan="3" style="width: 99.9536%; height: 42.8px; background-color: #c2e0f4; border-color: #34495e; border-style: solid; text-align: center;"><strong>Saberes básicos</strong></td>
+</tr>
+<tr style="height: 1264.8px;">
+<td colspan="3" style="width: 99.9536%; height: 1264.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;">
+<p style="text-align: justify;"><em>Bloque A. La lengua y sus hablantes</em> </p>
+<ul style="text-align: justify;">
+<li>Presencia del asturiano en la producción artística actual: literatura, cine, música, etc.  </li>
+</ul>
+<p style="text-align: justify;"><em>Bloque B. Comunicación</em></p>
+<p style="text-align: justify;">Los géneros discursivos</p>
+<ul style="text-align: justify;">
+<li>Géneros discursivos propios del ámbito educativo. Reflexión sobre el papel del asturiano en las comunicaciones propias de las instituciones educativas. </li>
+</ul>
+<p style="text-align: justify;">Procesos</p>
+<ul style="text-align: justify;">
+<li>Producción oral formal. Planificación y búsqueda de información, textualización y revisión. Adecuación a la audiencia y al tiempo de exposición. Elementos no verbales. Rasgos discursivos y lingüísticos de la oralidad formal. La deliberación oral argumentada.  </li>
+<li>Comprensión lectora: sentido global del texto y relación entre sus partes. La intención del emisor. Detección de usos discriminatorios del lenguaje verbal e icónico. Valoración de la forma y el contenido del texto.  </li>
+<li>Alfabetización informacional: Búsqueda y selección de la información con criterios de fiabilidad, calidad y pertinencia; análisis, valoración, reorganización y síntesis de la información en esquemas propios y transformación en conocimiento; comunicación y difusión de manera creativa y respetuosa con la propiedad intelectual. </li>
+</ul>
+<p style="text-align: justify;">Reconocimiento y uso discursivo de los elementos lingüísticos</p>
+<ul>
+<li style="text-align: justify;">Recursos lingüísticos para adecuar el registro a la situación de comunicación. Procedimientos explicativos básicos: la aposición y las oraciones de relativo. </li>
+<li style="text-align: justify;">Corrección lingüística y revisión ortográfica y gramatical de los textos. Uso de diccionarios, vocabularios, manuales de consulta, traductores y de correctores ortográficos en soporte analógico o digital.</li>
+</ul>
+<p><em>Bloque C. Educación literaria</em></p>
+<p>Lectura autónoma</p>
+<ul>
+<li>Familiarización con el circuito literario y lector. Participación en actos culturales.  </li>
+</ul>
+<p>Lectura guiada</p>
+<ul>
+<li style="text-align: justify;">Lectura de obras relevantes del patrimonio literario asturiano y universal y de la literatura actual inscritas en itinerarios temáticos o de género, que incluyan la presencia de autoras y autores. </li>
+<li style="text-align: justify;">Relación entre los elementos constitutivos del género literario y la construcción del sentido de la obra. Efectos de sus recursos expresivos en la recepción. </li>
+<li style="text-align: justify;">Lectura expresiva, dramatización y recitación de los textos atendiendo a los procesos de comprensión, apropiación y oralización implicados. </li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777903214177-tccf9kgrd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta Sda se vincula con los siguientes elementos curriculares: </p>\n<table border=\"1\" class=\"exe-table\" style=\"width: 100.037%; height: 3838.8px; border-color: #34495e; border-style: solid; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 56.8px; text-align: justify; border-color: #34495e;\">\n<td style=\"width: 28.641%; height: 56.8px; background-color: #c2e0f4; border-color: #34495e; border-style: solid; text-align: center;\">C. E.</td>\n<td style=\"width: 25.7421%; text-align: center; height: 56.8px; background-color: #c2e0f4; border-color: #34495e; border-style: solid;\">Criterios de evaluación</td>\n<td style=\"width: 45.5705%; text-align: center; height: 56.8px; background-color: #c2e0f4; border-color: #34495e; border-style: solid;\">Descriptores operativos</td>\n</tr>\n<tr style=\"height: 680.8px; text-align: justify; border-color: #34495e;\">\n<td style=\"width: 28.641%; height: 680.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">Competencia específica 3. Producir textos orales y multimodales con fluidez, coherencia, cohesión y registro adecuado, atendiendo a las convenciones propias de los diferentes géneros discursivos, y participar en interacciones orales con actitud cooperativa y respetuosa, tanto para construir conocimiento y establecer vínculos personales como para intervenir de manera activa e informada en diferentes contextos sociales. </td>\n<td style=\"width: 25.7421%; height: 680.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">3.1. Realizar exposiciones y argumentaciones orales de cierta extensión y complejidad con diferente grado de planificación sobre temas de interés personal, social, educativo y profesional ajustándose a las convenciones propias de los diversos géneros discursivos, con fluidez, coherencia, cohesión y el registro adecuado en diferentes soportes, utilizando de manera eficaz recursos verbales y no verbales. </td>\n<td style=\"width: 45.5705%; height: 680.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\"> CCL1, CCL3, CCL5, CP2, STEM1, CD2, CD3, CC2, CE1. </td>\n</tr>\n<tr style=\"height: 1208.8px; text-align: justify; border-color: #34495e;\">\n<td style=\"width: 28.641%; height: 1208.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">Competencia específica 6. Seleccionar y contrastar información procedente de diferentes fuentes de manera progresivamente autónoma, evaluando su fiabilidad y pertinencia en función de los objetivos de lectura y evitando los riesgos de manipulación y desinformación, e integrarla y transformarla en conocimiento para comunicarla, adoptando un punto de vista crítico y personal a la par que respetuoso con la propiedad intelectual. </td>\n<td style=\"width: 25.7421%; height: 1208.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">6.1. Elaborar trabajos de investigación de manera guiada en diferentes soportes sobre diversos temas de interés académico, personal o social que impliquen localizar, seleccionar y contrastar información procedente de diferentes fuentes, calibrando su fiabilidad y pertinencia en función de los objetivos de lectura; organizarla e integrarla en esquemas propios, y reelaborarla y comunicarla de manera creativa, adoptando un punto de vista crítico y respetuoso con los principios de propiedad intelectual. 6.2. Conocer y manejar las fuentes y los recursos analógicos y digitales disponibles en lengua asturiana para elaborar a partir de ellos trabajos de investigación.  </td>\n<td style=\"width: 45.5705%; height: 1208.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">CCL3, CD1, CD2, CD3, CD4, CPSAA4, CPSAA5, CC4, CE3.  </td>\n</tr>\n<tr style=\"height: 584.8px; text-align: justify;\">\n<td style=\"width: 28.641%; height: 584.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">Competencia específica 7. Seleccionar y leer de manera autónoma obras diversas como fuente de placer y conocimiento, configurando un itinerario lector que se enriquezca progresivamente en cuanto a diversidad, complejidad y calidad de las obras, y compartir experiencias de lectura para construir la propia identidad lectora y disfrutar de la dimensión social de la lectura.  </td>\n<td style=\"width: 25.7421%; height: 584.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">7.1. Leer de manera progresivamente autónoma textos seleccionados en función de los propios gustos, intereses y necesidades, y dejar constancia del progreso del propio itinerario lector y cultural explicando los criterios de selección de las lecturas, las formas de acceso a la cultura literaria y la experiencia de lectura. </td>\n<td style=\"width: 45.5705%; height: 584.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">CCL1, CCL2, CCL4, CPSAA1, CPSAA3, CPSAA5, CCEC1, CCEC2, CCEC3.  </td>\n</tr>\n<tr style=\"height: 42.8px; text-align: justify;\">\n<td colspan=\"3\" style=\"width: 99.9536%; height: 42.8px; background-color: #c2e0f4; border-color: #34495e; border-style: solid; text-align: center;\"><strong>Saberes básicos</strong></td>\n</tr>\n<tr style=\"height: 1264.8px;\">\n<td colspan=\"3\" style=\"width: 99.9536%; height: 1264.8px; background-color: #bfedd2; border-color: #34495e; border-style: solid;\">\n<p style=\"text-align: justify;\"><em>Bloque A. La lengua y sus hablantes</em> </p>\n<ul style=\"text-align: justify;\">\n<li>Presencia del asturiano en la producción artística actual: literatura, cine, música, etc.  </li>\n</ul>\n<p style=\"text-align: justify;\"><em>Bloque B. Comunicación</em></p>\n<p style=\"text-align: justify;\">Los géneros discursivos</p>\n<ul style=\"text-align: justify;\">\n<li>Géneros discursivos propios del ámbito educativo. Reflexión sobre el papel del asturiano en las comunicaciones propias de las instituciones educativas. </li>\n</ul>\n<p style=\"text-align: justify;\">Procesos</p>\n<ul style=\"text-align: justify;\">\n<li>Producción oral formal. Planificación y búsqueda de información, textualización y revisión. Adecuación a la audiencia y al tiempo de exposición. Elementos no verbales. Rasgos discursivos y lingüísticos de la oralidad formal. La deliberación oral argumentada.  </li>\n<li>Comprensión lectora: sentido global del texto y relación entre sus partes. La intención del emisor. Detección de usos discriminatorios del lenguaje verbal e icónico. Valoración de la forma y el contenido del texto.  </li>\n<li>Alfabetización informacional: Búsqueda y selección de la información con criterios de fiabilidad, calidad y pertinencia; análisis, valoración, reorganización y síntesis de la información en esquemas propios y transformación en conocimiento; comunicación y difusión de manera creativa y respetuosa con la propiedad intelectual. </li>\n</ul>\n<p style=\"text-align: justify;\">Reconocimiento y uso discursivo de los elementos lingüísticos</p>\n<ul>\n<li style=\"text-align: justify;\">Recursos lingüísticos para adecuar el registro a la situación de comunicación. Procedimientos explicativos básicos: la aposición y las oraciones de relativo. </li>\n<li style=\"text-align: justify;\">Corrección lingüística y revisión ortográfica y gramatical de los textos. Uso de diccionarios, vocabularios, manuales de consulta, traductores y de correctores ortográficos en soporte analógico o digital.</li>\n</ul>\n<p><em>Bloque C. Educación literaria</em></p>\n<p>Lectura autónoma</p>\n<ul>\n<li>Familiarización con el circuito literario y lector. Participación en actos culturales.  </li>\n</ul>\n<p>Lectura guiada</p>\n<ul>\n<li style=\"text-align: justify;\">Lectura de obras relevantes del patrimonio literario asturiano y universal y de la literatura actual inscritas en itinerarios temáticos o de género, que incluyan la presencia de autoras y autores. </li>\n<li style=\"text-align: justify;\">Relación entre los elementos constitutivos del género literario y la construcción del sentido de la obra. Efectos de sus recursos expresivos en la recepción. </li>\n<li style=\"text-align: justify;\">Lectura expresiva, dramatización y recitación de los textos atendiendo a los procesos de comprensión, apropiación y oralización implicados. </li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot1f9gx-nuik4b3zx</odePageId>
+  <odeParentPageId>page-mot1f9gk-qlie3rgf8</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot1f9gx-nuik4b3zx</odePageId>
+      <odeBlockId>block-1777924337552-19swd185a</odeBlockId>
+      <blockName>Metodologías activas incluidas en la SdA</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9gx-nuik4b3zx</odePageId>
+          <odeBlockId>block-1777924337552-19swd185a</odeBlockId>
+          <odeIdeviceId>idevice-1777924337548-1yqxgw7fq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Las metodologías activas son clave para hacer que las actividades planteadas sean accesibles y motivadoras para el alumnado. De este modo, se conseguirá que la SdA permita un desarrollo competencial adecuado gracias a la mayor implicación del alumnado en el proceso de enseñanza-aprendizaje. Por ello, se incluirán las siguientes metodologías activas: </p>
+<ol>
+<li style="text-align: justify;"><strong>Aprendizaje por descubrimiento</strong>: en la medida que se priorizará el aprendizaje autónomo a través del cotejo de fuentes fiables, tanto físicas como digitales. </li>
+<li style="text-align: justify;"><strong>Aprendizaje basado en proyectos</strong>: ya que el alumnado deberá afrontar la tarea con el fin de ofrecer un producto que contribuya a la visibilación del asturiano en el centro y a preservar y cuidar dicha lengua como bien cultural. </li>
+<li style="text-align: justify;"><strong>Aprendizaje colaborativo</strong>: porque se pretende que el alumnado alcance un mejor desarrollo compentencial a partir de la co-construcción del conocimiento.</li>
+<li style="text-align: justify;"><strong>Aprendizaje basado en el pensamiento</strong>: pues se pretende que el alumnado desarrolle un espíritu crítico contra la discriminación lingüística a través de la lectura y análisis de textos literarios.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777924337548-1yqxgw7fq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las metodologías activas son clave para hacer que las actividades planteadas sean accesibles y motivadoras para el alumnado. De este modo, se conseguirá que la SdA permita un desarrollo competencial adecuado gracias a la mayor implicación del alumnado en el proceso de enseñanza-aprendizaje. Por ello, se incluirán las siguientes metodologías activas: </p>\n<ol>\n<li style=\"text-align: justify;\"><strong>Aprendizaje por descubrimiento</strong>: en la medida que se priorizará el aprendizaje autónomo a través del cotejo de fuentes fiables, tanto físicas como digitales. </li>\n<li style=\"text-align: justify;\"><strong>Aprendizaje basado en proyectos</strong>: ya que el alumnado deberá afrontar la tarea con el fin de ofrecer un producto que contribuya a la visibilación del asturiano en el centro y a preservar y cuidar dicha lengua como bien cultural. </li>\n<li style=\"text-align: justify;\"><strong>Aprendizaje colaborativo</strong>: porque se pretende que el alumnado alcance un mejor desarrollo compentencial a partir de la co-construcción del conocimiento.</li>\n<li style=\"text-align: justify;\"><strong>Aprendizaje basado en el pensamiento</strong>: pues se pretende que el alumnado desarrolle un espíritu crítico contra la discriminación lingüística a través de la lectura y análisis de textos literarios.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot1f9gy-hkv2xsci8</odePageId>
+  <odeParentPageId>page-mot1f9gk-qlie3rgf8</odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot1f9gy-hkv2xsci8</odePageId>
+      <odeBlockId>block-1777924804300-q9cmn933j</odeBlockId>
+      <blockName>Proyectos a los que contribuye la SdA</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9gy-hkv2xsci8</odePageId>
+          <odeBlockId>block-1777924804300-q9cmn933j</odeBlockId>
+          <odeIdeviceId>idevice-1777924804299-tof6fxd02</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta tarea contribuye a implementar los siguientes proyectos: </p>
+<ol>
+<li style="text-align: justify;"><strong>PLEI</strong>: en la medida en que se apoya fundamentalmente en la investigación autónoma del alumnado y en el trabajo con textos literarios. </li>
+<li style="text-align: justify;"><strong>Plan de Coeducación</strong>: ya que busca dar cabida a voces femeninas de la literatura asturiana con el fin de contextualizarlas dentro de la tradición y mostrar similitudes y divergencias con sus coetáneos. </li>
+<li style="text-align: justify;"><strong>Proyecto educativo en asturiano "LLUME"</strong>. </li>
+<li style="text-align: justify;"><strong>Proyecto para la mejora de la competencia digital educativa #CompDigEdu</strong>: gracias a la implementación de las TIC como mecanismo para conseguir alcanzar el aprendizaje significativo en el alumnado. </li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777924804299-tof6fxd02","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta tarea contribuye a implementar los siguientes proyectos: </p>\n<ol>\n<li style=\"text-align: justify;\"><strong>PLEI</strong>: en la medida en que se apoya fundamentalmente en la investigación autónoma del alumnado y en el trabajo con textos literarios. </li>\n<li style=\"text-align: justify;\"><strong>Plan de Coeducación</strong>: ya que busca dar cabida a voces femeninas de la literatura asturiana con el fin de contextualizarlas dentro de la tradición y mostrar similitudes y divergencias con sus coetáneos. </li>\n<li style=\"text-align: justify;\"><strong>Proyecto educativo en asturiano \"LLUME\"</strong>. </li>\n<li style=\"text-align: justify;\"><strong>Proyecto para la mejora de la competencia digital educativa #CompDigEdu</strong>: gracias a la implementación de las TIC como mecanismo para conseguir alcanzar el aprendizaje significativo en el alumnado. </li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot1f9h0-6f571c8nh</odePageId>
+  <odeParentPageId>page-mot1f9gk-qlie3rgf8</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot1f9h0-6f571c8nh</odePageId>
+      <odeBlockId>block-1777925873796-w8vxb9gnh</odeBlockId>
+      <blockName>Selmana de les Lletres Asturianes</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9h0-6f571c8nh</odePageId>
+          <odeBlockId>block-1777925873796-w8vxb9gnh</odeBlockId>
+          <odeIdeviceId>idevice-1777925873790-v8vb4ykiz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Parte de la situación de aprendizaje tiene como fin realizar un <strong>recreo poético</strong>, donde el alumnado hará una lectura dramatizada de poemas en lengua asturiana de su elección. Con ello, se busca hacer partícipe a la comunidad educativa de la actividad, así como de conseguir una mayor implicación del alumnado en el desarrollo de la SdA. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777925873790-v8vb4ykiz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Parte de la situación de aprendizaje tiene como fin realizar un <strong>recreo poético</strong>, donde el alumnado hará una lectura dramatizada de poemas en lengua asturiana de su elección. Con ello, se busca hacer partícipe a la comunidad educativa de la actividad, así como de conseguir una mayor implicación del alumnado en el desarrollo de la SdA. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot1f9h1-i5npuxzgl</odePageId>
+  <odeParentPageId>page-mot1f9gk-qlie3rgf8</odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot1f9h1-i5npuxzgl</odePageId>
+      <odeBlockId>block-1778007739610-m0wp65h6x</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot1f9h1-i5npuxzgl</odePageId>
+          <odeBlockId>block-1778007739610-m0wp65h6x</odeBlockId>
+          <odeIdeviceId>idevice-1778007739607-4o80gnq71</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">A vueltes cola lliteratura.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Álvaro Gregorio Vázquez Macías</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
